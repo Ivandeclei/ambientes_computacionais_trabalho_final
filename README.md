@@ -14,22 +14,22 @@ O espectro completo de uma cadeia ponderada *s* é o multiconjunto *S[s]* conten
 
 ## Conjunto de dados de exemplo
 
-4
-GSDMQS
-VWICN
-IASWMQS
-PVSMGAD
-445.17838
-115.02694
-186.07931
-314.13789
-317.1198
+4\
+GSDMQS\
+VWICN\
+IASWMQS\
+PVSMGAD\
+445.17838\
+115.02694\
+186.07931\
+314.13789\
+317.1198\
 215.09061
 
 
 **Saída de amostra**
 
-3
+3\
 IASWMQS
 
 
